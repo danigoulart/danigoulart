@@ -16,5 +16,7 @@
 </p>
   <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/01/25/X7Bugy.png">
 </div>
+
+![Snake Animation](https://github.com/rafaballerini/danigoulart/blob/output/github-contribution-grid-snake.svg)
   
   ##
