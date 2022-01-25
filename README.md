@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oie 
 
-<!--
-**danigoulart/danigoulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    📌 RS → SP  &nbsp; &nbsp; 🎓 Engenharia de Software 
+  
+ ##
+  
+<p align="center">  
+  <a href="https://github.com/danigoulart">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigoulart&hide=html&layout=compact&theme=dracula&show_icons=true" />
+  </a>
+  <a href="https://github.com/danigoulart">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danigoulart&theme=dracula&show_icons=true" />
+  </a>
+</p>
+  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/01/25/X7Bugy.png">
+</div>
+  
+  ##
