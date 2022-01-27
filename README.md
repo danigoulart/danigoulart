@@ -11,7 +11,8 @@
 
  ##
  
- <div>                
+ <div>          
+ <p align="center">
   <a href="https://github.com/danigoulart">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danigoulart&theme=dracula&show_icons=true" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigoulart&layout=compact&langs_count=7&theme=dracula"/>
