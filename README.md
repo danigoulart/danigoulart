@@ -19,6 +19,25 @@
   </a>
  </div>
 
+### Linguagens e Frameworks
+
+<div class="languages-ctn">
+  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+
+### Redes Sociais
+
+<a href="https://www.linkedin.com/in/danigoulart/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+##
+
 
 ![Snake Animation](https://github.com/danigoulart/danigoulart/blob/output/github-contribution-grid-snake.svg)
   
