@@ -1,3 +1,23 @@
+
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
+Olá mundo, Eu sou a Dani 👩‍💻.
+
+@@ Sou Desenvolvedora Java FullStack Jr @@
++ Originalmente de Porto Alegre, atualmente em São Paulo-SP 🇧🇷.
+- Levev up 27
+! sometimes speaker, always bad jokes
+# 📖 Programming languages, functional, web development
+```
+
+
+<Youre doing great>
+<Good things will come to you>
+<Drink water and stay awesome>
+
+
 # System. out. print(Oie)
 <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/01/25/X7Bugy.png">
  Me chamo Daniela e estou migrando de carreira! Fotografa, confeiteira, Campeã Gaúcha & Instrutora de Tiro com Arco. Em 2010 me divertia passando horas e horas na frente do computador editando os themes do HTML do tumblr como boa cringe e emo que usava orkut! Agora, me reencontrei nessa paixão que é ter a telinha escura e os desafios que os códigos nos trazem. Atualmente cursando o Bootcamp de Desenvolvedora Java da Generation Brasil, aprendendo com os melhores e dando tudo de mim diariamente pra me tornar uma super Dev Java ♥ 
