@@ -18,7 +18,7 @@ Olá mundo, Eu sou a Dani 👩‍💻.
 <Drink water and stay awesome>
 
 
-# System. out. print(Oie)
+# System. out. print("Oie")
 <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/01/25/X7Bugy.png">
 
 
