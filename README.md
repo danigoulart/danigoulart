@@ -25,17 +25,14 @@ Olá mundo, Eu sou a Dani 👩‍💻.
   <p align="center">
     🚀  RS → SP  &nbsp; &nbsp; 🎓 Engenharia de Software 
   </p>
-</div>
+
 
  ##
  
- <div>          
- <p align="center">
-  <a href="https://github.com/danigoulart">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=danigoulart&theme=dracula&show_icons=true" />
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigoulart&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
- </div>
+
+
+ 
+</div> 
 
 <div class="languages-ctn">
  <p align="center">
@@ -44,9 +41,22 @@ Olá mundo, Eu sou a Dani 👩‍💻.
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br>
 
+
+   <div>          
+ <p align="center">
+  <a href="https://github.com/danigoulart">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=danigoulart&theme=dracula&show_icons=true" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigoulart&layout=compact&langs_count=7&theme=dracula"/>  
+  </a>
+  
+  <img height="120em" src="https://github-profile-trophy.vercel.app/api?username=danigoulart&theme=dracula&show_icons=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=danigoulart&theme=dracula" />
+  
+</div>
+ <br>
+  <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/danigoulart/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
