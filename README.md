@@ -13,15 +13,7 @@ Olá mundo, Eu sou a Dani 👩‍💻.
 ```
   <img alt="danigoulart Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danigoulart&custom_title=danigoulart%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true" />
     
-</div>
-<div align="center" display"inline_block"><br>
-    <img align="center" alt="joaovic2k-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="joaovic2k-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="joaovic2k-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="joaovic2k-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="joaovic2k-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="joaovic2k-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+
 
 <Youre doing great>
 <Good things will come to you>
