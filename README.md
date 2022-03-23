@@ -11,28 +11,21 @@ Olá mundo, Eu sou a Dani 👩‍💻.
 ! sometimes speaker, always bad jokes
 # 📖 Programming languages, functional, web development
 ```
-
+  <img alt="danigoulart Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danigoulart&custom_title=danigoulart%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true" />
+    
+</div>
+<div align="center" display"inline_block"><br>
+    <img align="center" alt="joaovic2k-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="joaovic2k-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="joaovic2k-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="joaovic2k-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="joaovic2k-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="joaovic2k-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
 <Youre doing great>
 <Good things will come to you>
 <Drink water and stay awesome>
-
-
-# System. out. print("Oie")
-<img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/01/25/X7Bugy.png">
-
-
-  <p align="center">
-    🚀  RS → SP  &nbsp; &nbsp; 🎓 Engenharia de Software 
-  </p>
-
-
- ##
- 
-
-
- 
-</div> 
 
 <div class="languages-ctn">
  <p align="center">
@@ -44,28 +37,25 @@ Olá mundo, Eu sou a Dani 👩‍💻.
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br>
 
 
-   <div>          
  <p align="center">
   <a href="https://github.com/danigoulart">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=danigoulart&theme=dracula&show_icons=true" />
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigoulart&layout=compact&langs_count=7&theme=dracula"/>  
   </a>
   
-  <img height="120em" src="https://github-profile-trophy.vercel.app/api?username=danigoulart&theme=dracula&show_icons=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=danigoulart&theme=dracula" />
-  
 </div>
- <br>
-  <br>
-<p align="center">
-<a href="https://www.linkedin.com/in/danigoulart/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
 
 
 ![Snake Animation](https://github.com/danigoulart/danigoulart/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+ 
   
   ##
-  
+ 
+<div align="center"> 
+  <a href="https://instagram.com/joaovic2k_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaovictorca2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/danigoulart/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   
