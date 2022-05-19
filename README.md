@@ -1,6 +1,6 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
 
 ```diff
 Olá mundo, Eu sou a Dani 👩‍💻.
@@ -11,6 +11,9 @@ Olá mundo, Eu sou a Dani 👩‍💻.
 ! sometimes speaker, always bad jokes
 # 📖 Programming languages, functional, web development
 ```
+
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
   <img alt="danigoulart Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danigoulart&custom_title=danigoulart%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true" />
     
 
