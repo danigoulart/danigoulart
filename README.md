@@ -9,7 +9,7 @@
 ```diff
 Olá mundo, Eu sou a Dani 👩‍💻.
 
-@@ Sou Desenvolvedora Java FullStack Jr @@
+@@ Sou Desenvolvedora na IBM @@
 + Originalmente de Porto Alegre, atualmente em São Paulo-SP 🇧🇷.
 - Levev up 27
 ! sometimes speaker, always bad jokes
